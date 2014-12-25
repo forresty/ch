@@ -1,5 +1,2 @@
-require "ch/version"
-
-module Ch
-  # Your code goes here...
-end
+require_relative "ch/version"
+require_relative "ch/ring"

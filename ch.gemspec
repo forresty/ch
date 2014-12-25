@@ -5,7 +5,7 @@ require 'ch/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "ch"
-  spec.version       = Ch::VERSION
+  spec.version       = ConsistentHashing::VERSION
   spec.authors       = ["Forrest Ye"]
   spec.email         = ["afu@forresty.com"]
   spec.summary       = %q{ yet another consistent hashing library }
