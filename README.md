@@ -1,4 +1,4 @@
-# CH
+# ch gem
 
 yet another consistent hashing library
 
