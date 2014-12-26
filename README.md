@@ -1,6 +1,7 @@
 # ch gem
 
 [![Build Status](https://travis-ci.org/forresty/ch.svg)](https://travis-ci.org/forresty/ch)
+[![Gem Version](https://badge.fury.io/rb/ch.svg)](http://badge.fury.io/rb/ch)
 
 yet another consistent hashing library
 
