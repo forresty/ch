@@ -1,5 +1,7 @@
 # ch gem
 
+[![Build Status](https://travis-ci.org/forresty/ch.svg)](https://travis-ci.org/forresty/ch)
+
 yet another consistent hashing library
 
 Implemented using AVLTree.
