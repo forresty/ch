@@ -49,6 +49,10 @@ ring.node_for_key(1).should == '127.0.0.1:6381'
 Digest::SHA1.hexdigest(key.to_s).hex
 ```
 
+## Credits
+
+- [https://github.com/domnikl/consistent-hashing](https://github.com/domnikl/consistent-hashing)
+
 ## Contributing
 
 1. Fork it ( https://github.com/forresty/ch/fork )
