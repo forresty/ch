@@ -1,3 +1,5 @@
+# originally from https://github.com/domnikl/consistent-hashing
+
 require 'avl_tree'
 
 module ConsistentHashing
