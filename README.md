@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/forresty/ch.svg)](https://travis-ci.org/forresty/ch)
 [![Gem Version](https://badge.fury.io/rb/ch.svg)](http://badge.fury.io/rb/ch)
+[![Code Climate](https://codeclimate.com/github/forresty/ch/badges/gpa.svg)](https://codeclimate.com/github/forresty/ch)
 
 yet another consistent hashing library
 
